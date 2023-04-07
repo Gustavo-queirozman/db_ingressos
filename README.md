@@ -10,7 +10,6 @@ Banco de dados SQL para plataforma de ingressos
 
 <h2>Modelo Físico</h2>
 <pre>
-/* MODELO LÓGICO: */
 
 CREATE TABLE cliente (
     idCliente INTEGER PRIMARY KEY AUTO_INCREMENT,
