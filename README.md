@@ -9,6 +9,6 @@ Banco de dados SQL para plataforma de ingressos
 <img src="https://raw.githubusercontent.com/Gustavo-queirozman/db_ingressos/main/MODELO_LOGICO.png"/>
 
 <h2>Modelo Físico</h2>
-<noscript>
+<pre>
   create database
-</noscript>
+</pre>
